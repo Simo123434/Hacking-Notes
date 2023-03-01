@@ -1,4 +1,8 @@
 {
   "promptDelete": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-AU"
+  ]
 }
