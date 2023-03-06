@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49281c93d656284f",
+        "id": "cd6f05087f78c6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "48c3c8e8b9a8b0b9",
+            "id": "4579f4c78e49f335",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thm/Red Team/Initial Access/Weaponisation.md",
+                "file": "htb/Starting Point/Tier 0/Synced/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thm/Red Team/Initial Access/Weaponisation.md",
+                "file": "htb/Starting Point/Tier 0/Synced/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thm/Red Team/Initial Access/Weaponisation.md",
+                "file": "htb/Starting Point/Tier 0/Synced/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thm/Red Team/Initial Access/Weaponisation.md"
+                "file": "htb/Starting Point/Tier 0/Synced/Questions.md"
               }
             }
           }
@@ -147,11 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c3c8e8b9a8b0b9",
+  "active": "58b4e901c6dfde60",
   "lastOpenFiles": [
+    "htb/Starting Point/Tier 0/Mongod/Questions.md",
+    "htb/Starting Point/Tier 0/Synced/Questions.md",
+    "htb/Starting Point/Tier 0",
+    "htb/Starting Point/Tier 0/Synced",
+    "htb/Starting Point/Tier 0/Preingnition/Questions.md",
+    "htb/Starting Point/Tier 0/Mongod",
+    "htb/Starting Point/Tier 0/Explosion/Questions.md",
+    "htb/Starting Point/Tier 0/Preingnition",
     "thm/Red Team/Initial Access/Weaponisation.md",
+    "htb/Starting Point/Tier 0/Explosion",
+    "htb/Starting Point",
     "thm/Red Team/Initial Access/Weaponisaiton.md",
-    "thm/Red Team/Initial Access/Weaponisation.md",
     "thm/Red Team/Red Team Fundamentals/1. Red Team Fundamentals.md",
     "thm/Red Team/Red Team Fundamentals/5. Intro to C2.md",
     "thm/Red Team/Untitled.md",
