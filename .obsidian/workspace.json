@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6f05087f78c6ff",
+        "id": "aa328dd205f00605",
         "type": "tabs",
         "children": [
           {
-            "id": "4579f4c78e49f335",
+            "id": "9d737155a65eb152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htb/Starting Point/Tier 0/Synced/Questions.md",
+                "file": "htb/Starting Point/Tier 1/tactics/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7412194c2dc9291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "htb/Starting Point/Tier 2/Unified/Question.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htb/Starting Point/Tier 0/Synced/Questions.md",
+                "file": "htb/Starting Point/Tier 2/Unified/Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htb/Starting Point/Tier 0/Synced/Questions.md",
+                "file": "htb/Starting Point/Tier 2/Unified/Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "htb/Starting Point/Tier 0/Synced/Questions.md"
+                "file": "htb/Starting Point/Tier 2/Unified/Question.md"
               }
             }
           }
@@ -147,8 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58b4e901c6dfde60",
+  "active": "c7412194c2dc9291",
   "lastOpenFiles": [
+    "htb/Starting Point/Tier 1/tactics/Questions.md",
+    "htb/Starting Point/Tier 2/Unified/Question.md",
+    "htb/Starting Point/Tier 2/Unified",
+    "htb/Starting Point/Tier 2",
+    "htb/Starting Point/Tier 1/tactics",
     "htb/Starting Point/Tier 0/Mongod/Questions.md",
     "htb/Starting Point/Tier 0/Synced/Questions.md",
     "htb/Starting Point/Tier 0",
