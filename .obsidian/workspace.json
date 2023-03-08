@@ -25,14 +25,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htb/Starting Point/Tier 2/Unified/Question.md",
+                "file": "htb/Starting Point/Tier 2/Unified/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a3cc7f6cc0d0035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "htb/Starting Point/Tier 2/included/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f584e305c550db5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "htb/Starting Point/Tier 2/included/002 Initial access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b9ebe4204b6235a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "htb/Starting Point/Tier 2/included/003 Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "0e4f573b060d7d21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23b4327583426f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "htb/Starting Point/Tier 2/included/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htb/Starting Point/Tier 2/Unified/Question.md",
+                "file": "htb/Starting Point/Tier 2/included/003 Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htb/Starting Point/Tier 2/Unified/Question.md",
+                "file": "htb/Starting Point/Tier 2/included/003 Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "htb/Starting Point/Tier 2/Unified/Question.md"
+                "file": "htb/Starting Point/Tier 2/included/003 Priv Esc.md"
               }
             }
           }
@@ -160,8 +214,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7412194c2dc9291",
+  "active": "4b9ebe4204b6235a",
   "lastOpenFiles": [
+    "htb/Starting Point/Tier 2/included/002 Initial access.md",
+    "htb/Starting Point/Tier 2/included/003 Priv Esc.md",
+    "htb/Starting Point/Tier 2/included/Questions.md",
+    "htb/Starting Point/Tier 2/included/001 Recon.md",
+    "htb/Starting Point/Tier 2/Unified/Questions.md",
+    "htb/Starting Point/Tier 2/included",
     "htb/Starting Point/Tier 1/tactics/Questions.md",
     "htb/Starting Point/Tier 2/Unified/Question.md",
     "htb/Starting Point/Tier 2/Unified",

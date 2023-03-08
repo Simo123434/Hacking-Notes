@@ -21,7 +21,7 @@
 6. What is the function we use to update users within the database in MongoDB?
 	- db.admin.update()
 7. What is the password for the root user?
-		- NotACrackablePassword4U2022
+	-  NotACrackablePassword4U2022
 
 
 
